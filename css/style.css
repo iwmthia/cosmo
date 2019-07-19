@@ -6858,7 +6858,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, E:/172 Etrain Education/172_Etrain_Education_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/breadcrumb.png");
+  background-image: url("../img/breadcrumb.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7332,8 +7332,13 @@ span img {
 }
 
 .icon-work {
-width: 150px;
-height: 150px;
+width: 100px;
+height: 100px;
 margin: 0 auto;
-margin-top: 20px;
+margin-top: 30px;
+margin-bottom: 20px;
+}
+
+.ml30 {
+  margin-left: 30px;
 }
